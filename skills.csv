@@ -1,18 +1,18 @@
 Type,ID,Kind,Name
-通常攻撃(素手),3481186334,Melee,素手 first normal attack
-通常攻撃(素手),1578628668,Melee,素手 second normal attack
-通常攻撃(素手),888355388,Melee,素手 third normal attack
-通常攻撃(素手),1306546230,Melee,素手 air first normal attack
-通常攻撃(素手),439463649,Melee,素手 air second normal attack
-通常攻撃(素手),2213730805,Melee,素手 air third normal attack
-ステアタ(素手),2071807444,Melee,素手 ステップアタック
-ダッキングブロウ(素手),3085782811,PA,Unarmed
-通常攻撃(ロッド),1698836726,PA,1
-通常攻撃(ロッド),1698835954,PA,2
-通常攻撃(ロッド),1698835891,PA,3
-通常攻撃(タリス),603769614,Ranged,Talis first normal attack
-通常攻撃(タリス),603769679,Ranged,Talis second normal attack
-通常攻撃(タリス),603769484,Ranged,Talis third normal attack
+通常攻撃(素手),3481186334,Melee,1
+通常攻撃(素手),1578628668,Melee,2
+通常攻撃(素手),888355388,Melee,3
+通常攻撃(素手),1306546230,Melee,4
+通常攻撃(素手),439463649,Melee,5
+通常攻撃(素手),2213730805,Melee,6
+ステアタ(素手),2071807444,Melee,1
+ダッキングブロウ(素手),3085782811,Melee,1
+通常攻撃(ロッド),1698836726,Melee,1
+通常攻撃(ロッド),1698835954,Melee,2
+通常攻撃(ロッド),1698835891,Melee,3
+通常攻撃(タリス),603769614,Ranged,1
+通常攻撃(タリス),603769679,Ranged,2
+通常攻撃(タリス),603769484,Ranged,3
 ロッドシュート,82081592,Melee,Rod Shoot,Fo
 アナザーロッドシュートモード,102418521,Special,Another Rod Shooting Mode ring,Fo
 フリーズイグニッション,3533119346,Special,Freeze Ignition (Fo skill),Fo
