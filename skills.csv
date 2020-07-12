@@ -7,9 +7,9 @@ Type,ID,Kind,Name
 通常攻撃(素手),2213730805,Melee,素手 air third normal attack
 ステアタ(素手),2071807444,Melee,素手 ステップアタック
 ダッキングブロウ(素手),3085782811,PA,Unarmed
-通常攻撃(ロッド),1698836726,Ranged,Rod first normal attack,Fo
-通常攻撃(ロッド),1698835954,Ranged,Rod second normal attack,Fo
-通常攻撃(ロッド),1698835891,Ranged,Rod third normal attack,Fo
+通常攻撃(ロッド),1698836726,PA,Rod first normal attack,Fo
+通常攻撃(ロッド),1698835954,PA,Rod second normal attack,Fo
+通常攻撃(ロッド),1698835891,PA,Rod third normal attack,Fo
 通常攻撃(タリス),603769614,Ranged,Talis first normal attack
 通常攻撃(タリス),603769679,Ranged,Talis second normal attack
 通常攻撃(タリス),603769484,Ranged,Talis third normal attack
