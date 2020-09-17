@@ -1757,10 +1757,11 @@ Phシフト(ロッド),421953627,PA,2
 通常攻撃(バーラン),1151798185,Melee,Luster バーランS second normal attack
 通常攻撃(バーラン),2025835831,Melee,Luster バーランS third normal attack
 通常攻撃(バーラン),4149676443,Melee,Luster バーランS Extra Attack (Lu skill)
-ガンスラッシュスラッシュ(バーラン),3381273017,Special,Luster バーランS first normal slash
-ガンスラッシュスラッシュ(バーラン),3381272952,Special,Luster バーランS second normal slash
-ガンスラッシュスラッシュ(バーラン),3381273147,Special,Luster バーランS third normal slash
-ガンスラッシュスラッシュ(バーラン),3381273082,Special,Luster バーランS Extra Attack slash (Lu skill)
+通常攻撃(バーラン),3363255252,Special,Luster バーランS first normal slash
+通常攻撃(バーラン),3381273017,Special,Luster バーランS first normal slash
+通常攻撃(バーラン),3381272952,Special,Luster バーランS second normal slash
+通常攻撃(バーラン),3381273147,Special,Luster バーランS third normal slash
+通常攻撃(バーラン),3381273082,Special,Luster バーランS Extra Attack slash (Lu skill)
 通常攻撃(バーラン),3941083368,Melee,Luster normal attack hold
 通常攻撃(バーラン),2775227003,Melee,Luster normal attack hold no gear
 フォトンバレット,212749371,Special,Luster フォトンバレット
