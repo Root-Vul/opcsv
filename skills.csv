@@ -1618,7 +1618,6 @@ Phシフト(ロッド),421953627,PA,2
 通常攻撃(フォメル),1917552622,Melee,Luster Extra Attack (Lu skill)
 通常攻撃(フォメル),204848271,Melee,Luster normal attack hold
 通常攻撃(フォメル),1952842142,Melee,Luster normal attack hold no gear
-通常攻撃(フォメル),958081478,Melee,仮
 フォトンスピア,3274277101,Special,Luster フォトンスピア
 ステアタ(ラスター)(フォメル),3286390190,Melee,Luster Step Attack
 ラスターカウンター(フォメル),4109993569,Special,Luster Step Counter (Lu skill)
@@ -1728,7 +1727,6 @@ Phシフト(ロッド),421953627,PA,2
 フレッシェット(ザンディ),808927040,PA,Luster フレッシェット Zandi stationary hold no gear
 フレッシェット(ザンディ),355552619,PA,Luster フレッシェット direction hold hit no gear
 フレッシェット(ザンディ),355552682,PA,Luster フレッシェット direction hold final hit no gear
-フレッシェット(ザンディ),3808927040,PA,Luster フレッシェット 仮
 ブランドエクステンション(ザンディ),1084186869,PA,Luster ブランドエクステンション stationary hold hits no gear
 ブランドエクステンション(ザンディ),1084186804,PA,Luster ブランドエクステンション stationary hold final hits no gear
 ブランドエクステンション(ザンディ),914860715,PA,Luster ブランドエクステンション direction hold hits no gear
@@ -1832,8 +1830,7 @@ Phシフト(ロッド),421953627,PA,2
 通常攻撃(属性なし),1244140660,Melee,Luster NoS Extra Attack (Lu skill)
 通常攻撃(属性なし),982712511,Melee,Luster normal attack hold
 通常攻撃(属性なし),1298735458,Melee,Luster normal attack hold no gear
-通常攻撃(属性なし),2407096757,Melee,Luster normal attack hold no gear
-ステアタ(属性なし),3892948221,Melee,仮 連射
+ステアタ(属性なし),3892948221,Melee,Luster Step Attack
 ステップガード(属性なし),2480928358,Special,Luster ステップガード (Lu skill)
 ラスターカウンター(属性なし),380547910,Special,Luster Step Counter (Lu skill)
 ステップスライド(属性なし),4065806309,Special,Luster ステップスライド forward (Lu skill)
@@ -1894,3 +1891,4 @@ Phシフト(ロッド),421953627,PA,2
 ラスタータイム,1972006615,Special,Luster Luster Time first multiple hits (Lu skill)
 ラスタータイム,1972006614,Special,Luster Luster Time second multiple hits (Lu skill)
 ラスタータイム,1972006609,Special,Luster Luster Time final hit (Lu skill)
+
