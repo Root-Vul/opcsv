@@ -1764,9 +1764,13 @@ Phシフト(ロッド),421953627,PA,2
 通常攻撃(バーラン),3381273082,Special,Luster バーランS Extra Attack slash (Lu skill)
 通常攻撃(バーラン),3941083368,Melee,Luster normal attack hold
 通常攻撃(バーラン),2775227003,Melee,Luster normal attack hold no gear
+通常攻撃(バーラン),3363254293,Melee,
+通常攻撃(バーラン),3363254358,Melee,
+通常攻撃(バーラン),3363254423,Melee,
 フォトンバレット,212749371,Special,Luster フォトンバレット
 ステアタ(バーラン),1527438262,Melee,Luster Step Attack
 ステップガード(バーラン),3070047115,Special,Luster ステップガード (Lu skill)
+ステップガード(バーラン),647085407,Special,Luster ステップガード (Lu skill)
 ラスターカウンター(バーラン),1754815403,Special,Luster Step Counter (Lu skill)
 ステップスライド(バーラン),1890244919,Special,Luster ステップスライド forward (Lu skill)
 ステップスライド(バーラン),76288340,Special,Luster ステップスライド sideways (Lu skill)
