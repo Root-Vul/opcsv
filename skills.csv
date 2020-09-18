@@ -1918,4 +1918,7 @@ LTF,1972006609,Special,Luster Luster Time final hit (Lu skill)
 通常追撃,388116085,Special,Lu 
 通常追撃,697019330,Special,Lu
 ダッシュアタック,85301616,PA,1
-Luカウンター武器アク(バーラン),2124983417,PA,WA、Luster Counter with Step Attack 
+Luカウンター(WA)(バーラン),2124983417,PA,WA、Luster Counter with Step Attack 
+Luカウンター(WA)(フォメル),2221684619,Special,Luster Counter with WA into Step Attack
+Luカウンター(WA)(ザンディ),2480579189,Special,Luster Counter with WA into Step Attack
+Luカウンター(WA),1400377060,Special,Luster Counter with WA into Step Attack
