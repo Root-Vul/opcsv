@@ -1923,31 +1923,28 @@ Luカウンター(WA)(フォメル),2221684619,Special,Luster Counter with WA in
 Luカウンター(WA)(ザンディ),2480579189,Special,Luster Counter with WA into Step Attack
 Luカウンター(WA),1400377060,Special,Luster Counter with WA into Step Attack
 エイミングショット,1657880367,PA,Aiming Shot (Charge lv.2)
-通常攻撃(バルカン),2063999436,Melee,シンクロウ first normal attack
-通常攻撃(バルカン),2063999435,Melee,Shinkurou second normal hit
-通常攻撃(バルカン),2063999434,Melee,Shinkurou third normal hit
 バルカンヒット,2063999436,PA
 バルカンヒット,2063999435,PA
 バルカンヒット,2063999434,PA
-バルカンザン,95929731,PA,Synchro Zan
-バルカンザン,2435231242,PA,Synchro Zan PA succession
-バルカンキャク1hit目,2696678670,PA,Synchro Kyaku
-バルカンキャク2hit目,2696678735,PA,Synchro Kyaku
-バルカンキャク,57330756,PA,Synchro Kyaku PA succession
-バルカンキャク,57330511,PA,Synchro Kyaku PA succession
-バルカンキャク,57330886,PA,Synchro Kyaku PA succession
-バルカンキャク,57330823,PA,Synchro Kyaku PA succession
-バルカンキャク,57330446,PA,Synchro Kyaku PA succession
-バルカンケン,95929601,PA,Synchro Ken
-バルカンケン,1151390219,PA,Synchro Ken PA succession
-バルカンケン,1151390282,PA,Synchro Ken PA succession
-バルカンケン,1151433823,PA,Synchro Ken PA succession
-バルカンケン,1151434142,PA,Synchro Ken PA succession
-バルカンダン,95944533,PA,Synchro Dan
-バルカンダン,744644532,PA,Synchro Dan PA succession
-バルカンゲキ,2900785656,PA,Synchro Geki
-バルカンゲキ,2900785465,PA,Synchro Geki 2 PA succession
-バルカンゲキ,2900783709,PA,Synchro Geki 3 PA succession
-バルカンゲキ,2900784540,PA,Synchro Geki 4 PA succession
+バルカンザン,95929731,PA
+バルカンザン,2435231242,PA
+バルカンキャク,2696678670,PA
+バルカンキャク,2696678735,PA
+バルカンキャク,57330511,PA
+バルカンキャク,57330446,PA
+バルカンキャク,57330886,PA
+バルカンキャク,57330823,PA
+バルカンキャク,57330756,PA
+バルカンケン,95929601,PA
+バルカンケン,1151390282,PA
+バルカンケン,1151390219,PA
+バルカンケン,1151433823,PA
+バルカンケン,1151434142,PA
+バルカンダン,95944533,PA
+バルカンダン,744644532,PA
+バルカンゲキ,2900785656,PA
+バルカンゲキ,2900785465,PA
+バルカンゲキ,2900783709,PA
+バルカンゲキ,2900784540,PA
 転身攻勢,2900692422,PA,
 双機銃の光渦,3365684458,Special
